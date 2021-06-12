@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Bang-Kernel By rnxyr
+kernel.string=Exation Kernel V1 By rnxyr
 do.devicecheck=1
 do.modules=0
 do.systemless=1
